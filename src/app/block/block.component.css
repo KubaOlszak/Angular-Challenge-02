@@ -1,0 +1,12 @@
+#square {
+  display: flex;
+  width: 60px;
+  height: 60px;
+  border: 3px solid #000;
+}
+
+p {
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+}
