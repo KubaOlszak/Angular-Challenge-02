@@ -19,4 +19,5 @@ import { BlockComponent } from './block/block.component';
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }

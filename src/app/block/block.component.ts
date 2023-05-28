@@ -8,3 +8,4 @@ import { Component } from '@angular/core';
 export class BlockComponent {
   text = 'a b c';
 }
+
